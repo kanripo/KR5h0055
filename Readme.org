@@ -1,8 +1,3 @@
-#+TITLE: 紫微斗數 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 03:05:37.563503
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5h0055_000.txt][紫微斗數 0]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
